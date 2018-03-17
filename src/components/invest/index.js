@@ -301,7 +301,7 @@ export class Invest extends React.Component {
       <div style={{ marginLeft: '-20px', marginTop: '-20px' }}>
         <ReactCountdownClock
           seconds={this.state.msToNextTick / 1000}
-          color="#733EAB"
+          color="#727272"
           alpha={0.9}
           size={270}
           showMilliseconds={false}
